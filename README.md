@@ -1,3 +1,6 @@
+## Note
+react-native-animatable package version has been updated to address [this issue](https://github.com/oblador/react-native-animatable/issues/278), which presents warning "componentWillReceiveProps is deprecated and will be removed in the next major version. Use static getDerivedStateFromProps instead."
+
 [![npm version](https://badge.fury.io/js/react-native-star-rating.svg)](https://badge.fury.io/js/react-native-star-rating)
 
 [![NPM](https://nodei.co/npm/react-native-star-rating.png?downloads=true)](https://nodei.co/npm/react-native-star-rating/)
